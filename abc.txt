@@ -1,0 +1,1 @@
+sudo wget https://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-maven.repo -0 /etc/yum.repos.d/epel-apache-maven.repo
